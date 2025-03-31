@@ -53,3 +53,34 @@ The shift in focus away from aggressive policing may have influenced reporting p
 <iframe src="bokeh_assault_interactive.html" width="70%" height="400px"></iframe>
 
 This analysis of assault crime trends in San Francisco reveals a relatively stable period until 2019, followed by a dramatic drop post-2020. The most affected areas—such as the Tenderloin and Mission District—highlight how geography and socioeconomic conditions influence crime rates. However, the impact of COVID-19, policy changes, and shifting city dynamics complicates the story, making it essential to continue monitoring trends in the coming years.
+
+#References:
+
+### Impact of the COVID-19 Pandemic on Crime Rates
+
+1. _Public Policy Institute of California (PPIC)_ - Crime trends during the pandemic, including shifts in property and violent crime.
+
+   - Source: [https://www.ppic.org/publication/crime-after-proposition-47-and-the-pandemic/](https://www.ppic.org/publication/crime-after-proposition-47-and-the-pandemic/)
+
+2. _California Policy Lab_ - Analysis of crime trends in California during the COVID-19 pandemic.
+   - Source: [https://capolicylab.org/wp-content/uploads/2021/09/Crime-in-California-During-the-Covid-19-Pandemic.pdf](https://capolicylab.org/wp-content/uploads/2021/09/Crime-in-California-During-the-Covid-19-Pandemic.pdf)
+
+### Effect of Policy Changes on Crime Rates
+
+3. _Proposition 47 and Its Impact on Crime Rates_ - Reclassification of certain offenses and its effect on crime trends.
+
+   - Source: [https://www.ppic.org/publication/crime-after-proposition-47-and-the-pandemic/](https://www.ppic.org/publication/crime-after-proposition-47-and-the-pandemic/)
+
+4. _Center on Juvenile and Criminal Justice (CJCJ)_ - Law enforcement spending vs. crime clearance rates.
+   - Source: [https://www.cjcj.org/reports-publications/report/california-law-enforcement-agencies-are-spending-more-but-solving-fewer-crimes](https://www.cjcj.org/reports-publications/report/california-law-enforcement-agencies-are-spending-more-but-solving-fewer-crimes)
+
+### Recent Crime Trends and Law Enforcement Efforts
+
+5. _San Francisco Government Report_ - Decline in crime rates in 2024 due to new public safety measures.
+
+   - Source: [https://www.sf.gov/news--san-francisco-2024-crime-rates-down-city-prepares-implement-new-voter-approved-public-safety](https://www.sf.gov/news--san-francisco-2024-crime-rates-down-city-prepares-implement-new-voter-approved-public-safety)
+
+6. _San Francisco Police Department Reform Efforts_ - Eight-year reform completion and crime reduction.
+   - Source: [https://www.sanfranciscopolice.org/news/sfpd-substantial-compliance-following-years-long-reform](https://www.sanfranciscopolice.org/news/sfpd-substantial-compliance-following-years-long-reform)
+
+_Note:_ These sources provide credible evidence to support claims regarding the impact of COVID-19, policy changes, and law enforcement reforms on crime rates in San Francisco.
